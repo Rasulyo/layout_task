@@ -396,7 +396,7 @@ ul:last-child {
     }
 }
 
-@media all and (max-width: 375px) {
+@media all and (max-width: 540px) {
     .container {
         width: 375px;
         margin: 0 auto;
